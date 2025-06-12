@@ -1,0 +1,19 @@
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+
+# Output files
+*.log
+*.txt
+*.gif
+
+# Virtual env / hidden files
+.env
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+
+# Editor settings
+.vscode/
