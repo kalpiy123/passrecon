@@ -1,6 +1,6 @@
 🔍 PASSRECON
 
-This is my very first project and its kind of an mixture of multiple different tools and its pretty powerful Linux-based passive reconnaissance tool designed to extract critical open-source intelligence (OSINT) from domains and IPs — without ever touching the target directly.
+This is my very first project and its kind of a mixture of multiple different tools and its pretty powerful Linux-based passive reconnaissance tool designed to extract critical open-source intelligence (OSINT) from domains and IPs — without ever touching the target directly.
 
 # Features
     -WHOIS lookup
